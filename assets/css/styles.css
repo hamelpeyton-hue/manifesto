@@ -8,5 +8,8 @@ h1 {
 }
 
 div {
-
+	font-family: Georgia;
+	color: dodgerblue;
+	font-size: 30px;
+	letter-spacing: 5px;
 }
