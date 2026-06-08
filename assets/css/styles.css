@@ -2,7 +2,7 @@
 
 h1 {
 	font-family: Arial;
-	color: hotpink;
+	color: orchid;
 	font-size: 220px;
 	lettter-spacing: 10px;
 }
@@ -13,3 +13,14 @@ div {
 	font-size: 30px;
 	letter-spacing: 5px;
 }
+
+.red {
+	color: red;
+	font-size: 60px;
+	font-weight: bold;
+	transform: rotate(25deg);
+}
+
+
+
+
