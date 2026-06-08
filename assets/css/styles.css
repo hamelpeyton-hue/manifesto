@@ -3,5 +3,10 @@
 h1 {
 	font-family: Arial;
 	color: hotpink;
-	font/size: 220px;
+	font-size: 220px;
+	lettter-spacing: 10px;
+}
+
+div {
+
 }
