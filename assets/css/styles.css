@@ -1,15 +1,15 @@
 /* styles.css */
 
 h1 {
-	font-family: Arial;
-	color: hotpink;
-	font-size: 220px;
-	lettter-spacing: 10px;
+	font-family:Arial;
+	color:hotpink;
+	font-size:220px;
+	lettter-spacing:10px;
 }
 
 div {
-	font-family: Georgia;
-	color: dodgerblue;
-	font-size: 30px;
-	letter-spacing: 5px;
+	font-family:Georgia;
+	color:dodgerblue;
+	font-size:30px;
+	letter-spacing:5px;
 }
