@@ -1,7 +1,7 @@
 /* styles.css */
 
 html {
-	background-color: lightyellow;
+	background-color:lightyellow;
 	background-image: 
 		linear-gradient(lightyellow);
 }
@@ -29,8 +29,8 @@ div {
 }
 
 pre {
-font-family: Book Antiqua;
-	color: goldenrod;
+font-family:Book Antiqua;
+	color:goldenrod;
 	font-size: 40px;
 	
 }
