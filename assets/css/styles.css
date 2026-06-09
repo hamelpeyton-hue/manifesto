@@ -1,5 +1,11 @@
 /* styles.css */
 
+html {
+	background-color: pink;
+	background-image: 
+		linear-gradient(pink, thistle);
+}
+
 h1 {
 	font-family: Arial;
 	color: orchid;
