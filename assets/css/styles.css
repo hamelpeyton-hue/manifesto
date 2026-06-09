@@ -1,7 +1,7 @@
 /* styles.css */
 
 html {
-	background-color: pink;
+	background-color: lightyellow;
 	background-image: 
 		linear-gradient(pink, thistle);
 }
@@ -30,8 +30,8 @@ div {
 
 pre {
 font-family: Book Antiqua;
-	color: dodgerblue;
-	font-size: 12px;
+	color: goldenrod;
+	font-size: 40px;
 }
 
 
