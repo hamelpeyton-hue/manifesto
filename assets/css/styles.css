@@ -17,6 +17,12 @@ html {
     justify-content: center;
 }
 
+.poem-container {
+    
+    width: fit-content;
+    text-align: center; 
+
+}
 h1 {
 	font-family: Book Antiqua;
 	color: goldenrod;
