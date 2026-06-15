@@ -43,12 +43,12 @@ font-family:Book Antiqua;
 	text-align: left;
 }
 .wrapper {
-  max-width: 20px; 
+  max-width: 0px; 
   margin: 0 auto;    
 }
 
 header, .body-content {
-  width: 50%;       
+  width: 40%;       
 }
 
 
