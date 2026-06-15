@@ -42,5 +42,13 @@ font-family:Book Antiqua;
 	letter-spacing: 3px
 	text-align: left;
 }
+.wrapper {
+  max-width: 1200px; /* Adjust this to your desired width */
+  margin: 0 auto;    /* Centers the wrapper on the page */
+}
+
+header, .body-content {
+  width: 100%;       
+}
 
 
