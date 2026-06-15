@@ -9,7 +9,7 @@ html {
  body {
 	font-family: Book Antiqua;
 	color: goldenrod;
-	font-size: 40px;
+	font-size: 30px;
 	lettter-spacing: 10px;
 	margin: 0;
     padding: 50px 20px;
@@ -38,7 +38,7 @@ h1 {
 pre {
 font-family:Book Antiqua;
 	color:goldenrod;
-	font-size: 40px;
+	font-size: 30px;
 	letter-spacing: 10px
 	text-align: left;
 }
