@@ -26,8 +26,8 @@ html {
 h1 {
 	font-family: Book Antiqua;
 	color: goldenrod;
-	font-size: 3rem;
-	letter-spacing: 5px;
+	font-size: 5rem;
+	letter-spacing: 2px;
 	margin-bottom: 40px;
 	text-align: center;
 }
@@ -38,13 +38,13 @@ h1 {
 pre {
 font-family:Book Antiqua;
 	color:goldenrod;
-	font-size: 1rem;
-	letter-spacing: 3px
+	font-size: 3rem;
+	letter-spacing: 1px
 	text-align: left;
 }
 .wrapper {
-  max-width: 100px; /* Adjust this to your desired width */
-  margin: 0 auto;    /* Centers the wrapper on the page */
+  max-width: 100px; 
+  margin: 0 auto;    
 }
 
 header, .body-content {
