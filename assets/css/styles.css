@@ -6,33 +6,34 @@ html {
 		linear-gradient(lightyellow);
 }
 
+ body {
+	font-family: Book Antiqua;
+	color: goldenrod;
+	font-size: 16px;
+	lettter-spacing: 10px;
+	margin: 0;
+    padding: 50px 20px;
+	display: flex;
+    justify-content: center;
+}
+
 h1 {
 	font-family: Book Antiqua;
 	color: goldenrod;
-	font-size: 165px;
-	lettter-spacing: 10px;
-}
-
-div {
-	font-family: Book Antiqua;
-	color: dodgerblue;
-	font-size: 30px;
+	font-size: 4rem;
 	letter-spacing: 5px;
-	margin: 30px;
+	margin-bottom: 40px;
+	text-align: center;
 }
 
 .red {
-	color: red;
-	font-size: 60px;
-	font-weight: bold;
-	transform: rotate(25deg);
 }
 
 pre {
 font-family:Book Antiqua;
 	color:goldenrod;
-	font-size: 40px;
-	
+	font-size: 1rem;
+	letter-spacing: 3px
 }
 
 
