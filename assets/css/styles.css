@@ -9,8 +9,8 @@ html {
  body {
 	font-family: Book Antiqua;
 	color:saddlebrown;
-	font-size: 27px;
-	lettter-spacing: 20px;
+	font-size: 30px;
+	lettter-spacing: 6px;
 	margin: 0;
     padding: 50px 20px;
 	display: flex;
@@ -27,7 +27,7 @@ h1 {
 	font-family: Book Antiqua;
 	color:saddlebrown;
 	font-size: 80px;
-	letter-spacing: 20px;
+	letter-spacing: 6px;
 	margin-bottom: 5px;
 	text-align: center;
 }
@@ -38,17 +38,17 @@ h1 {
 pre {
 font-family:Book Antiqua;
 	color:goldenrod;
-	font-size: 27px;
-	letter-spacing: 20px
+	font-size: 30px;
+	letter-spacing: 6px
 	text-align: left;
 }
 .wrapper {
-  max-width: 100px; 
+  max-width: 1000px; 
   margin: 0 auto;    
 }
 
 header, .body-content {
-  width: 50%;       
+  width: 100%;       
 }
 
 
