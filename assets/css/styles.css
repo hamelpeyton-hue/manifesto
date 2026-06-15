@@ -43,7 +43,7 @@ font-family:Book Antiqua;
 	text-align: left;
 }
 .wrapper {
-  max-width: 1200px; /* Adjust this to your desired width */
+  max-width: 100px; /* Adjust this to your desired width */
   margin: 0 auto;    /* Centers the wrapper on the page */
 }
 
